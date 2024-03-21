@@ -1,7 +1,7 @@
 # Formulário
 Pequeno formulário básico para treinar o Bootstrap.
-
-## Linguages utilizadas:
+##Link para visualização do projeto: https://gandolphini.github.io/Formulario/
+### Linguages utilizadas:
 
 - **HTML**
 - **CSS**
